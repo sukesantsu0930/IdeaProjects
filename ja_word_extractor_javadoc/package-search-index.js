@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"extractor","h":"","u":""},{"l":"kuromoji_test","h":"","u":""},{"l":"すべてのパッケージ","h":"","u":"allpackages-index.html"}]

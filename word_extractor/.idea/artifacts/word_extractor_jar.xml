@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="word_extractor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/word_extractor_jar</output-path>
+    <root id="archive" name="word_extractor.jar">
+      <element id="module-output" name="word_extractor" />
+    </root>
+  </artifact>
+</component>
